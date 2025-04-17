@@ -5,12 +5,9 @@
 ## Quick Start
 ``` bash
 cd pollster-django-crash
-# Install dependencies
-pip install pipenv
 
-pipenv shell
 # Install django
-pipenv install django
+pip install django
 
 cd pollster
 # Serve on localhost:8000
